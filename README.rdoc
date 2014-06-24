@@ -1,0 +1,7 @@
+== README
+
+This example app envisages to do the below 
+
+* Create and manage blog posts using AngularJS and Rails 4.1
+
+* Have role based authentication for the blog
